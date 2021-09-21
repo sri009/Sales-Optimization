@@ -1,5 +1,7 @@
 # Sales-Optimization
 
+Name-Srideep Bhattacharya
+
 Business Questions:-
 
 1.How to optimize the social ad campaigns for the highest conversion rate possible. (Attain best Reach to Conversion ratios/Click to Conversion ratios)
